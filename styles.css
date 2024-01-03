@@ -1,0 +1,68 @@
+html {
+    font-size: 10px;
+  }
+  
+  body {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 0;
+    line-height: 1.4;
+  }
+  
+  header, section {
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #img-caption {
+    padding-top: 10px;
+  }
+  
+  section {
+    margin: 30px 8px 15px 8px;
+  }
+  
+  header {
+    margin: 30px 8px 15px 8px;
+  }
+  
+  ul {
+    max-width: 550px;
+    margin: 0 auto 35px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  li {
+    margin: 16px 0;
+  }
+  
+  blockquote p {
+    font-style: italic;
+    text-align: left;
+  }
+  
+  blockquote {
+    max-width: 545px;
+    margin: 0 auto 30px auto;
+    text-align: right;
+  }
+  
+  a {
+    color: #477ca7;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #477ca7;
+  }
+  
